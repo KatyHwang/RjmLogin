@@ -1,0 +1,10 @@
+D:\SW\github\RjmLogin\RjmLogin\bin\Debug\RjmLogin.exe.config
+D:\SW\github\RjmLogin\RjmLogin\bin\Debug\RjmLogin.exe
+D:\SW\github\RjmLogin\RjmLogin\bin\Debug\RjmLogin.pdb
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.Properties.Resources.resources
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.csproj.GenerateResource.cache
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.csproj.CoreCompileInputs.cache
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.exe
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.pdb
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.Login.resources
+D:\SW\github\RjmLogin\RjmLogin\obj\Debug\RjmLogin.Form1.resources
